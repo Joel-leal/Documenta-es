@@ -1,6 +1,6 @@
 # Markdown
 
-Markdown foi criado para escrita de textos, sendo uma linguagem de marcação que permite algumas anotações sobre a formatação. A ideia é facilitar a formatação e leitura de textos na web, uma das riquezas do markdown é a possibilidade de converter textos para HTML facilmente. De maneira, limpa, legível e precisa, podemos criar marcaçoes, listas, links e códigos. O markdown não tem a ver com webdesigner ou layout. Apesar de ser uma linguagem de marcação, o markdown não substitui a linguagem HTML e também não é possível aninhar tags. Markdown vem se popularizando cada vez mais, já aparece em textos, artigos, documentações e até forums na web. Servições que utilizam o markdown: Github, Bitcuket, Stackoverflow, reddit, SourceForge e as documentações da Microsoft. Com o markdown é possível formatar títulos, listas, links, imagens, tabelas entre outros componentes de texto. Existe várias documentações explicando passo a passo essas formatações, deixarei alguns links e estruturas de formatações abaixo.
+Markdown foi criado para escrita de textos, sendo uma linguagem de marcação que permite algumas anotações sobre a formatação. A ideia é facilitar a formatação e leitura de textos na web, uma de suas riquezas é a possibilidade de converter textos para HTML facilmente. De maneira limpa, legível e precisa, podemos criar marcaçoes, listas, links e códigos. O markdown não tem a ver com webdesigner ou layout. Apesar de ser uma linguagem de marcação, o markdown não substitui a linguagem HTML e também não é possível aninhar tags. Markdown vem se popularizando cada vez mais, já aparece em textos, artigos, documentações e até fóruns na web. Serviços que utilizam o markdown: Github, Bitcuket, Stackoverflow, reddit, SourceForge e as documentações da Microsoft. Com o markdown é possível formatar títulos, listas, links, imagens, tabelas entre outros componentes de texto. Existem várias documentações explicando passo a passo essas formatações, deixarei alguns links e estruturas de formatações abaixo.
 
 ## Documentações e vídeos sobre Markdown
 
@@ -15,7 +15,7 @@ Markdown foi criado para escrita de textos, sendo uma linguagem de marcação qu
 
 ## **Titulação**
 
-Tamanhos refenrente a cada valor.
+Tamanhos referentes a cada valor.
 
 > `# Título 1`
 >
@@ -43,7 +43,7 @@ Tamanhos refenrente a cada valor.
 
 ## **Listas**
 
-As listas podem ser ordenadas, não ordenadas e listas de tarefas. As listas ordenadas utilizamos `*` ou `-` nos itens, as listas ordenadas usaremos os números seguidos de `.` e a lista de tarefas usaremos `-[]` sendo assim:
+As listas podem ser ordenadas, não ordenadas e listas de tarefas. As listas ordenadas utilizamos `*` ou `-` nos itens, as listas ordenadas usamos os números seguidos de `.` e a lista de tarefas usamos `-[]` sendo assim:
 
 > **Lista não ordenada**
 >
@@ -80,7 +80,7 @@ Para deixar parte do seu texto em _sublinhado_, use `_texto_` antes e depois do 
 
 Existem duas formas de inserir link em Markdown, através de um link direto ou usando um texto-âncora:
 
-> **text-âncora:**
+> **texto-âncora:**
 >
 > Utilizamos a estrutura `[texto](link)` para adicionarmos o texto e o link, exemplo: [PodCodar](https://github.com/orgs/podcodar/dashboard) :rocket:
 >
@@ -98,4 +98,4 @@ Para inserirmos imagens, usaremos uma estrutura simular a de links, sendo `![alt
 
 Deixamos a formatação de **tabelas** a cargo das documentações já existentes e que contemplam de maneira abrangente o tema aqui proposto.
 
-### Esse texto é pasaível a contribuição.
+### Esse texto é passível a contribuição.
